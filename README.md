@@ -19,7 +19,7 @@ Welcome to my GitHub! I specialize in crafting innotative, interactive, and vect
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akajmo&show_icons=true&theme=dracula&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikooski&show_icons=true&theme=dracula&count_private=true)
 ![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=mikooski&layout=compact&theme=dracula)
 
 ---
