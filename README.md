@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jmo
+# 👋 Hi, I'm Miko
 
 ### 🎨 Front-End Developer | UI/UX Enthusiast | Creative Coder
 
