@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Miko
 
-### 🎨 Front-End Developer | UI/UX Enthusiast | Creative Coder
+### 🎨 AI Oracle| Workflow Automation Expert | UI/UX Enthusiast
 
 Welcome to my GitHub! I specialize in crafting innotative, interactive, and vectoring databases and ai models. I have a strong passion for turning ideas into real-world experiences using modern vectoring models.
 
