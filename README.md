@@ -24,14 +24,14 @@ Welcome to my GitHub! I specialize in crafting innotative, interactive, and vect
 
 ---
 
-## 🎯 Front-End Philosophy
+## 🎯 What I’m Working On
 
 > **"Design meets function — great code is invisible but impactful."**
 
-- 🖌️ I create seamless and pixel-perfect UI experiences.
-- 📱 I build fully responsive and mobile-first applications.
-- ⚡ I love optimizing for performance and accessibility.
-- 🤝 Collaboration with designers and backend devs is my daily rhythm.
+- 🖌️ Execution AI: the layer that doesn’t just *suggest*, it *acts*
+- 📱 Integrations: bridging Zapier, n8n, and direct API SDKs
+- ⚡ Workflow orchestration: chat → plan → execute → result
+- 🤝 Crypto + AI: tokenized workflows, Solana-based microtransactions
 
 ---
 
